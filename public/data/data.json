@@ -1,0 +1,85 @@
+{
+    "imagebaseurl": "https://rbhatia46.github.io/",
+    "name": "Etienne BEUTER",
+    "role": "Full stack developer",
+    "linkedinId": "Your LinkedIn Id",
+    "skypeid": "Your skypeid",
+    "roleDescription": "Freshly graduated full stack developer with a background in technical writing.",
+    "socialLinks": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/etienne-b-787bb01b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/etienne-b01",
+        "className": "fa fa-github"
+      }
+    ],
+    "aboutme": "toto",
+    "address": "France",
+    "website": "https://github.com/etienne-b01",
+    "education": [
+      {
+        "UniversityName": "OpenClassrooms",
+        "specialization": "Web development",
+        "MonthOfPassing": "Nov",
+        "YearOfPassing": "2024",
+        "Achievements": "Carried out seven projects covering HTML, CSS, JS and React"
+      },
+      {
+        "UniversityName": "Paris Diderot",
+        "specialization": "Technical writing",
+        "MonthOfPassing": "October",
+        "YearOfPassing": "2006",
+        "Achievements": "14 month-long apprenticeship"
+      }
+    ],
+    "work": [
+      {
+        "CompanyName": "Some Company",
+        "specialization": "Some specialization",
+        "MonthOfLeaving": "Jan",
+        "YearOfLeaving": "2018",
+        "Achievements": "Some Achievements"
+      },
+      {
+        "CompanyName": "Some Company",
+        "specialization": "Some specialization",
+        "MonthOfLeaving": "Jan",
+        "YearOfLeaving": "2018",
+        "Achievements": "Some Achievements"
+      }
+    ],
+    "skillsDescription": "Your skills here",
+    "skills": [
+      {
+        "skillname": "HTML5"
+      },
+      {
+        "skillname": "CSS"
+      },
+      {
+        "skillname": "Reactjs"
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "project1",
+        "description": "mobileapp",
+        "imgurl": "images/portfolio/phone.jpg"
+      },
+      {
+        "name": "project2",
+        "description": "mobileapp",
+        "imgurl": "images/portfolio/project.jpg"
+      },
+      {
+        "name": "project3",
+        "description": "mobileapp",
+        "imgurl": "images/portfolio/project2.png"
+      }
+    ]
+  }
+  
