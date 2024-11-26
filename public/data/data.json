@@ -2,9 +2,8 @@
     "imagebaseurl": "https://rbhatia46.github.io/",
     "name": "Etienne BEUTER",
     "role": "Full stack developer",
-    "linkedinId": "Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "Freshly graduated full stack developer with a background in technical writing.",
+    "linkedinId": "https://www.linkedin.com/in/etienne-b-787bb01b/",
+    "roleDescription": " A freshly graduated developer with a background in technical writing.",
     "socialLinks": [
       {
         "name": "linkedin",
@@ -17,7 +16,7 @@
         "className": "fa fa-github"
       }
     ],
-    "aboutme": "toto",
+    "aboutme": "After years of working with developers I decided to become one of them.",
     "address": "France",
     "website": "https://github.com/etienne-b01",
     "education": [
@@ -26,7 +25,7 @@
         "specialization": "Web development",
         "MonthOfPassing": "Nov",
         "YearOfPassing": "2024",
-        "Achievements": "Carried out seven projects covering HTML, CSS, JS and React"
+        "Achievements": "Carried out seven projects covering HTML, CSS, JS, React and Node.js"
       },
       {
         "UniversityName": "Paris Diderot",
@@ -61,23 +60,26 @@
         "skillname": "CSS"
       },
       {
-        "skillname": "Reactjs"
+        "skillname": "ReactJS"
+      },
+      {
+        "skillname": "Node.js"
       }
     ],
     "portfolio": [
       {
-        "name": "project1",
-        "description": "mobileapp",
+        "name": "Project 1",
+        "description": "Architect portfolio using vanilla JavaScript",
         "imgurl": "images/portfolio/phone.jpg"
       },
       {
-        "name": "project2",
-        "description": "mobileapp",
+        "name": "Project 2",
+        "description": "React-based vacation rental website",
         "imgurl": "images/portfolio/project.jpg"
       },
       {
-        "name": "project3",
-        "description": "mobileapp",
+        "name": "Project 3",
+        "description": "MongoDb and Node.js-based back-end for 2nd hand bookstore",
         "imgurl": "images/portfolio/project2.png"
       }
     ]
