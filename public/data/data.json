@@ -3,7 +3,7 @@
     "name": "Etienne BEUTER",
     "role": "Full stack developer",
     "linkedinId": "https://www.linkedin.com/in/etienne-b-787bb01b/",
-    "roleDescription": " A freshly graduated developer with a background in technical writing.",
+    "roleDescription": "Freshly graduated full stack developer with a background in technical writing.",
     "socialLinks": [
       {
         "name": "linkedin",
@@ -37,50 +37,59 @@
     ],
     "work": [
       {
-        "CompanyName": "Some Company",
-        "specialization": "Some specialization",
-        "MonthOfLeaving": "Jan",
-        "YearOfLeaving": "2018",
-        "Achievements": "Some Achievements"
+        "ProjectName": "Architect portfolio",
+        "specialization": "vanilla JavaScript",
+        "Achievements": "courte description de votre réalisation, les problématiques que vous avez rencontrées et comment vous les avez surmontées, les compétences qu'il vous a permis de développer",
+        "GithubLink" : "https://github.com/etienne-b01/Projet03_page_Web_dyn"
       },
       {
-        "CompanyName": "Some Company",
-        "specialization": "Some specialization",
-        "MonthOfLeaving": "Jan",
-        "YearOfLeaving": "2018",
-        "Achievements": "Some Achievements"
+        "ProjectName": "Vacation rental website",
+        "specialization": "React",
+        "Achievements": "courte description de votre réalisation, les problématiques que vous avez rencontrées et comment vous les avez surmontées, les compétences qu'il vous a permis de développer",
+        "GithubLink" : "https://github.com/etienne-b01/Projet06_Kasa"
+      },
+      {
+        "ProjectName": "Back end for a second-hand bookstore",
+        "specialization": "MongoDB and Node.js",
+        "Achievements": "courte description de votre réalisation, les problématiques que vous avez rencontrées et comment vous les avez surmontées, les compétences qu'il vous a permis de développer",
+        "GithubLink" : "https://github.com/etienne-b01/Projet07_MonVieuxGrimoire"
       }
     ],
-    "skillsDescription": "Your skills here",
+   
+    "skillsDescription": "",
     "skills": [
       {
-        "skillname": "HTML5"
+        "skillname": "HTML5",
+        "skilllevel": 3
       },
       {
-        "skillname": "CSS"
+        "skillname": "CSS",
+        "skilllevel": 3
       },
       {
-        "skillname": "ReactJS"
+        "skillname": "ReactJS",
+        "skilllevel": 3
       },
       {
-        "skillname": "Node.js"
+        "skillname": "Node.js",
+        "skilllevel": 3
       }
     ],
     "portfolio": [
       {
         "name": "Project 1",
         "description": "Architect portfolio using vanilla JavaScript",
-        "imgurl": "images/portfolio/phone.jpg"
+        "imgurl": "images/portfolio/project01.png"
       },
       {
         "name": "Project 2",
         "description": "React-based vacation rental website",
-        "imgurl": "images/portfolio/project.jpg"
+        "imgurl": "images/portfolio/project02.png"
       },
       {
         "name": "Project 3",
         "description": "MongoDb and Node.js-based back-end for 2nd hand bookstore",
-        "imgurl": "images/portfolio/project2.png"
+        "imgurl": "images/portfolio/project03.png"
       }
     ]
   }

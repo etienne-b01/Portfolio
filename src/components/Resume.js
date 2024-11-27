@@ -32,7 +32,7 @@ function Resume({ resumeData }) {
          </div>
         <div className="row work">
             <div className="three columns header-col">
-               <h1><span>Work</span></h1>
+               <h1><span>Works</span></h1>
             </div>
 
             <div className="nine columns main-col">
@@ -41,12 +41,14 @@ function Resume({ resumeData }) {
                   return(
                     <div className="row item">
                        <div className="twelve columns">
-                          <h3>{item.CompanyName}</h3>
-                          <p className="info">
+                          <h3>{item.ProjectName}</h3>
+                          <p className="info">Tools used:&nbsp; 
                           {item.specialization}
-                          <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
+                          </p>
                           <p>
                           {item.Achievements}
+                          </p>
+                          <p><a href={item.GithubLink} >Github repository </a>
                           </p>
                        </div>
 
