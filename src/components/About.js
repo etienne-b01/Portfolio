@@ -30,7 +30,8 @@ function About({resumeData}) {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    {/* <span>{resumeData.website}</span> */}
+                    <a href={resumeData.website}>{resumeData.website}</a>
        					   </p>
                   </div>
                </div>
