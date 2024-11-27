@@ -79,10 +79,13 @@ function Resume({ resumeData }) {
                 {
                   resumeData.skills && resumeData.skills.map((item) => {
                     return(
-                      <li>
-                      <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
-                      </span><em>{item.skillname}</em>
-                      </li>
+                      <li key={item.skillname}>
+                      <span
+                        className="bar-expand"
+                        style={{ width: `${item.skilllevel * 10}%` }} // Calculate width dynamically
+                      ></span>
+                      <em>{item.skillname}</em>
+                    </li>
                     )
                   })
                 }

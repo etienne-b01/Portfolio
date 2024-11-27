@@ -59,20 +59,24 @@
     "skillsDescription": "",
     "skills": [
       {
-        "skillname": "HTML5",
-        "skilllevel": 3
+        "skillname": "HTML",
+        "skilllevel": 6
       },
       {
         "skillname": "CSS",
-        "skilllevel": 3
+        "skilllevel": 5
+      },
+      {
+        "skillname": "JavaScript",
+        "skilllevel": 6
       },
       {
         "skillname": "ReactJS",
-        "skilllevel": 3
+        "skilllevel": 4
       },
       {
         "skillname": "Node.js",
-        "skilllevel": 3
+        "skilllevel": 4
       }
     ],
     "portfolio": [
