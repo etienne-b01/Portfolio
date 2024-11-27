@@ -30,7 +30,7 @@ function Resume({ resumeData }) {
               }
             </div>
          </div>
-        <div className="row work">
+        <div className="row work" id="works_section">
             <div className="three columns header-col">
                <h1><span>Works</span></h1>
             </div>
@@ -42,7 +42,7 @@ function Resume({ resumeData }) {
                     <div className="row item">
                        <div className="twelve columns">
                           <h3>{item.ProjectName}</h3>
-                          <p className="info">Tools used:&nbsp; 
+                          <p className="info">Tool(s) used:&nbsp; 
                           {item.specialization}
                           </p>
                           <p>

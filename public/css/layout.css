@@ -183,7 +183,7 @@ ul#nav li a {
 
 ul#nav li a:active { background-color: transparent !important; }
 /* ul#nav li.current a { color: #F06000; } */
-ul#nav li.current a { color: midnightblue; }
+ul#nav li.current a { color: darkslategray; }
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
@@ -191,7 +191,7 @@ ul#nav li.current a { color: midnightblue; }
 
 #about {
    /* background: #2B2B2B; */
-   background: #9ed5f5;
+   background: #bbe1f7;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -285,6 +285,10 @@ ul#nav li.current a { color: midnightblue; }
    margin-top: 6px;
 }
 
+#works_section {
+   scroll-margin-top: 80px; 
+ }
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -376,6 +380,8 @@ ul#nav li.current a { color: midnightblue; }
    display: block;
    cursor: pointer;
 }
+
+
 
 /* overlay */
 .portfolio-item .item-wrap .overlay {
@@ -489,6 +495,12 @@ ul#nav li.current a { color: midnightblue; }
 }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+
+/* addition below */
+#portfolio-wrapper.bgrid-quarters.s-bgrid-thirds.cf {
+   display: flex;
+   justify-content: space-between;
+ }
 
 
 /* fadein/fadeout effect for modal popup
