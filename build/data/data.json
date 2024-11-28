@@ -1,0 +1,89 @@
+{
+    "imagebaseurl": "",
+    "name": "Etienne BEUTER",
+    "role": "Full stack developer",
+    "linkedinId": "https://www.linkedin.com/in/etienne-b-787bb01b/",
+    "roleDescription": "Freshly graduated full stack developer with a background in technical writing.",
+    "socialLinks": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/etienne-b-787bb01b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/etienne-b01",
+        "className": "fa fa-github"
+      }
+    ],
+    "aboutme": "After years of working with developers I decided to become one of them.",
+    "address": "France",
+    "website": "https://github.com/etienne-b01",
+    "education": [
+      {
+        "UniversityName": "OpenClassrooms",
+        "specialization": "Web development",
+        "MonthOfPassing": "Nov",
+        "YearOfPassing": "2024",
+        "Achievements": "Carried out seven projects covering HTML, CSS, JS, React and Node.js"
+      },
+      {
+        "UniversityName": "Paris Diderot",
+        "specialization": "Technical writing",
+        "MonthOfPassing": "October",
+        "YearOfPassing": "2006",
+        "Achievements": "14 month-long apprenticeship"
+      }
+    ],
+    "work": [
+      {
+        "ProjectName": "Architect portfolio",
+        "specialization": "vanilla JavaScript",
+        "Achievements": "This was my first foray into implementing logic. I used JavaScript in order to conditionally alter the DOM so as to cover standard user and administrator use cases. I learnt how to use the fetch() function to retrieve data from an API and enabled username filtering using regular expressions. The data displayed is updated without the page having to be reloaded. This and the prevention of memory leaks are examples of efficient design from both a UX and performance standpoints.",
+        "GithubLink" : "https://github.com/etienne-b01/Projet03_page_Web_dyn",
+        "shortdesc": "Basic project using JavaScript",
+        "imgurl": "images/portfolio/project01.png"
+      },
+      {
+        "ProjectName": "Vacation rental website",
+        "specialization": "React",
+        "Achievements": "This project introduced me to frameworks and modular design. Designing components comes with challenges such as how best to make them reusable and knowing if or when to override their default default behaviour. I enjoyed the clear view and ease of maintenance brought by React, especially when combining it with SCSS and variables. My main challenges were covering all URL-related error cases and using props efficiently. I also discovered the concept of state (and how it's dynamic and local to each component) and its impacts on the DOM and enjoyed the positive impact of Single Page Apps on loading times.",
+        "GithubLink" : "https://github.com/etienne-b01/Projet06_Kasa",
+        "shortdesc": "Front end framework-based project",
+        "imgurl": "images/portfolio/project02.png"
+      },
+      {
+        "ProjectName": "Back end for a second-hand bookstore",
+        "specialization": "MongoDB and Node.js",
+        "Achievements": "I created a database for the first time thanks to this project and discovered Postman. Although useful this tool proved tricky when setting up all requests especially when JSON files are involved. I spent quite some time in acquainting myself with the notions of performance (storage space optimization) and mostly safety: user input validation, hashing passwords, generating and handling tokens and using environment variables. Much like components in the React-based project, knowing how to scope middleware proved a challenge. In this case, separating image upload from image optimization required effort but proved useful from reusability and performance standpoints.",
+        "GithubLink" : "https://github.com/etienne-b01/Projet07_MonVieuxGrimoire",
+        "shortdesc": "Server and database-oriented project",
+        "imgurl": "images/portfolio/project03.png"
+      }
+    ],
+   
+    "skillsDescription": "",
+    "skills": [
+      {
+        "skillname": "HTML",
+        "skilllevel": 6
+      },
+      {
+        "skillname": "CSS",
+        "skilllevel": 5
+      },
+      {
+        "skillname": "JavaScript",
+        "skilllevel": 6
+      },
+      {
+        "skillname": "ReactJS",
+        "skilllevel": 4
+      },
+      {
+        "skillname": "Node.js",
+        "skilllevel": 4
+      }
+    ]
+  }
+  
